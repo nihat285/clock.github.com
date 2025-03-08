@@ -1,0 +1,20 @@
+body{
+    background-image: url(cities-baku-azerbaijan-wallpaper-preview.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    
+}
+#clock-cointainer{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+
+}
+#Clock{
+   font-size: 65px;
+   font-family: Georgia, serif;
+   color: white;
+   backdrop-filter: blur(5px);
+}
